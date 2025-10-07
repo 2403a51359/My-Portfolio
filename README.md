@@ -545,7 +545,7 @@
     </form>
     
     <div class="social-links">
-      <a href="www.linkedin.com/in/manikanta-gadamalla" target="_blank">
+      <a href="www.linkedin.com/in/manikanta-gadamalla">
         <i class="fab fa-linkedin"></i>
         <span>LinkedIn Profile</span>
       </a>
